@@ -1,8 +1,8 @@
 <div align="center">
 
-# Andrew (Dℝ∃wX)
+# Andrew [Dℝ∃wX]
 
-### Building modern userscripts that improve the web.
+### Building polished userscripts for a cleaner, faster web.
 
 <a href="https://github.com/DREwX-code?tab=repositories">
   <img height="32" src="https://img.shields.io/badge/Repositories-View-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
@@ -19,13 +19,14 @@
 
 ## 🧠 About Me
 
-Hey, I'm Andrew — also known as **Dℝ∃wX**. I like building small tools that make the web cleaner, faster, and more enjoyable to use.
+Hey 👋  
+I'm Andrew — also known as **Dℝ∃wX**. I build userscripts and small web tools focused on cleaner interfaces, faster workflows, and better everyday browsing.
 
-I’ve been lucky to grow up as [ccamel](https://github.com/ccamel)’s son, around someone who introduced me to the vast digital world and passed on his passion.
+Most of my work is about improving platforms I actually use: better UI, useful shortcuts, cleaner layouts, and practical features that feel natural from the first click.
 
-Today, most of my work focuses on userscripts, interface improvements, and practical features that make everyday browsing feel better. I care about details, polish, and building projects that feel useful from the first click.
+I care about polish, details, and building tools that are simple enough to adopt but strong enough to keep using.
 
-> Let’s build the web we want to use.
+> Build the web we want to use.
 
 ---
 
@@ -138,8 +139,11 @@ Today, most of my work focuses on userscripts, interface improvements, and pract
 
 ---
 
+## ⚡ Signature
+
 <div align="center">
-
-*"Building tools we actually want to use."*
-
+  <img src="https://img.shields.io/badge/Userscripts-Specialist-960000?style=for-the-badge&logo=greasyfork&logoColor=white" alt="Userscripts">
+  <img src="https://img.shields.io/badge/Quality-Premium-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Quality">
+  <img src="https://img.shields.io/badge/UI%2FUX-Polished-0EA5E9?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX">
+  <img src="https://img.shields.io/badge/Open%20Source-Focused-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Open Source">
 </div>
