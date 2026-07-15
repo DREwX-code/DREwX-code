@@ -19,7 +19,7 @@
 
 ## 🧠 About Me
 
-Hey 👋  
+Hey 👋
 I'm Andrew — also known as **Dℝ∃wX**. I build userscripts and small web tools focused on cleaner interfaces, faster workflows, and better everyday browsing.
 
 Most of my work is about improving platforms I actually use: better UI, useful shortcuts, cleaner layouts, and practical features that feel natural from the first click.
@@ -92,11 +92,22 @@ I care about polish, details, and building tools that are simple enough to adopt
         <code>Userscript</code>
       </p>
     </td>
-    <td width="50%" valign="middle" align="center">
-      <h3>🚧 More projects coming soon</h3>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/DREwX-code/greasyfork-stats">📈 GreasyFork Stats</a>
+      </h3>
+      <p><strong>Dynamic GreasyFork statistics cards</strong> — SVG cards for READMEs and profiles</p>
       <p>
-        Building open-source tools focused on productivity,
-        web enhancement, and developer experience.
+        <img src="https://img.shields.io/github/stars/DREwX-code/greasyfork-stats?style=social" alt="GitHub Stars">
+      </p>
+      <p>
+        Generate lightweight and customizable SVG cards from public GreasyFork
+        statistics, with multiple themes, languages, and cached responses.
+      </p>
+      <p>
+        <code>JavaScript</code>
+        <code>SVG</code>
+        <code>Serverless</code>
       </p>
     </td>
   </tr>
@@ -104,11 +115,17 @@ I care about polish, details, and building tools that are simple enough to adopt
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Statistics
 
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=DREwX-code&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DREwX-code&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
+</p>
+
+<p align="center">
+  <a href="https://greasyfork.org/users/1259433">
+    <img src="https://greasyfork-stats.vercel.app/api/stats?user=1259433&theme=github_dark&lang=en&hide_border=true" alt="GreasyFork Stats">
+  </a>
 </p>
 
 ---
@@ -123,19 +140,19 @@ I care about polish, details, and building tools that are simple enough to adopt
 
 ## 🎯 Current Focus
 
-- Building polished userscripts
-- Improving UI & UX
-- Open-source development
-- Web productivity tools
-- Creating tools that are useful, clean, and easy to adopt
+* Building polished userscripts
+* Improving UI & UX
+* Open-source development
+* Web productivity tools
+* Creating tools that are useful, clean, and easy to adopt
 
 ---
 
 ## 🌍 Find Me
 
-- GitHub → https://github.com/DREwX-code
-- GreasyFork → https://greasyfork.org/users/1259433
-- Reddit → https://www.reddit.com/user/DrewXDev
+* GitHub → https://github.com/DREwX-code
+* GreasyFork → https://greasyfork.org/users/1259433
+* Reddit → https://www.reddit.com/user/DrewXDev
 
 ---
 
