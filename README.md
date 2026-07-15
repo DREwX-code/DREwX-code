@@ -55,27 +55,6 @@ I care about polish, details, and building tools that are simple enough to adopt
     </td>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/DREwX-code/Ultimate-Text-Selection-Translator">🌐 Ultimate Text Selection Translator</a>
-      </h3>
-      <p><strong>Instant text translation</strong> — Translate selected text anywhere</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/DREwX-code/Ultimate-Text-Selection-Translator?style=social" alt="GitHub Stars">
-      </p>
-      <p>
-        Modern userscript for translating selected text with a fast,
-        distraction-free interface and multiple translation providers.
-      </p>
-      <p>
-        <code>JavaScript</code>
-        <code>Translation</code>
-        <code>Userscript</code>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
         <a href="https://github.com/DREwX-code/omnichat-exporter">💬 OmniChat Exporter</a>
       </h3>
       <p><strong>Export AI conversations</strong> — TXT, PDF, JSON & Markdown</p>
@@ -89,6 +68,27 @@ I care about polish, details, and building tools that are simple enough to adopt
       <p>
         <code>JavaScript</code>
         <code>Export</code>
+        <code>Userscript</code>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/DREwX-code/Ultimate-Text-Selection-Translator">🌐 Ultimate Text Selection Translator</a>
+      </h3>
+      <p><strong>Instant text translation</strong> — Translate selected text anywhere</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/DREwX-code/Ultimate-Text-Selection-Translator?style=social" alt="GitHub Stars">
+      </p>
+      <p>
+        Modern userscript for translating selected text with a fast,
+        distraction-free interface and multiple translation providers.
+      </p>
+      <p>
+        <code>JavaScript</code>
+        <code>Translation</code>
         <code>Userscript</code>
       </p>
     </td>
