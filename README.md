@@ -107,8 +107,8 @@ I care about polish, details, and building tools that are simple enough to adopt
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DREwX-code&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DREwX-code&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=DREwX-code&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DREwX-code&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
 </p>
 
 ---
